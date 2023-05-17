@@ -1,6 +1,6 @@
 {
-  "name": "customgoto",
-  "displayName": "CustomGoTo",
+  "name": "quickopen",
+  "displayName": "QuickOpen",
   "description": "Customize your own go to shortcut",
   "version": "0.0.1",
   "engines": {
@@ -14,8 +14,8 @@
   "contributes": {
     "commands": [
       {
-        "command": "customgoto.helloWorld",
-        "title": "Hello World"
+        "command": "quickopen.gotohcpp",
+        "title": "Go to .h/.cpp file"
       }
     ]
   },
