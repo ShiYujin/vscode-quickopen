@@ -19,5 +19,9 @@ Initial release.
 
 ## TODO list
 - open both .h and .cpp files using ctrl+P;
+- Linux system not tested;
+
+## Special Thanks
+to ChatGPT 3.5 that it is your bullshit answers and codes full of errors that force me to read VSCode Document more carefully.
 
 **Enjoy!**
