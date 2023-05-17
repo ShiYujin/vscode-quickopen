@@ -1,8 +1,9 @@
 {
   "name": "quickopen",
 	"icon": "assets/go.png",
+	"publisher": "shiyujin",
   "displayName": "QuickOpen",
-  "description": "Customize your own go to shortcut",
+  "description": "Open .h/.cpp file",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.78.0"
@@ -20,6 +21,10 @@
       }
     ]
   },
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/ShiYujin/vscode-quickopen.git"
+	},
   "scripts": {
     "vscode:prepublish": "npm run compile",
     "compile": "tsc -p ./",
