@@ -1,5 +1,6 @@
 {
   "name": "quickopen",
+	"icon": "assets/go.png",
   "displayName": "QuickOpen",
   "description": "Customize your own go to shortcut",
   "version": "0.0.1",
